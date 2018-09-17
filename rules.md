@@ -25,20 +25,21 @@
 **Contact a staff member if you are unsure if your modification is permitted.**
 
 ### Cross-platform rules
-1. Do not spam, or flood the chat in a way that ruins other player's experiences.
-2. Cursing is allowed to a certain extent, excessive cursing may result in a punishment.
-3. You are not allowed to post links that lead to inappropriate websites.
-4. You are not allowed to advertise or post server addresses to other servers that are not affiliated with VectorMC.
-5. Do not insult other players.
-6. DDOS or DOS attacks are not permitted and will result in a **Permanent Ban**.
-7. Exploiting any kind of glitch or bug that gives you or other players an unfair advantage is not allowed.
-8. Do not give your team an unfair advantage.
-9. Do not impersonate any staff members.
-10. Ban evading will result in a network ban. All chances of appealing will be denied until any ban resets.
-11. Logging out during a screen share will result in a permanent ban.
-12. You must follow all staff instruction during a screen-share.
-13. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will result in a punishment.
-14. Do not accuse other players of cheating in public chat, private message an online staff member or ping a staff member on Discord.
+1. Follow all staff instructions.
+2. Do not spam, or flood the chat in a way that ruins other player's experiences.
+3. Cursing is allowed to a certain extent, excessive cursing may result in a punishment.
+4. You are not allowed to post links that lead to inappropriate websites.
+5. You are not allowed to advertise or post server addresses to other servers that are not affiliated with VectorMC.
+6. Do not insult other players.
+7. DDOS or DOS attacks are not permitted and will result in a **Permanent Ban**.
+8. Exploiting any kind of glitch or bug that gives you or other players an unfair advantage is not allowed.
+9. Do not give your team an unfair advantage.
+10. Do not impersonate any staff members.
+11. Ban evading will result in a network ban. All chances of appealing will be denied until any ban resets.
+12. Logging out during a screen share will result in a permanent ban.
+13. You must follow all staff instruction during a screen-share.
+14. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will result in a punishment.
+15. Do not accuse other players of cheating in public chat, private message an online staff member or ping a staff member on Discord.
 
 ### Forum Rules
 1. Users are not allowed to create any spam topics.
