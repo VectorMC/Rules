@@ -1,5 +1,5 @@
 # VectorMC's Ruleset
-[_v1.1_] Last Updated: 27th of October 2018
+[_v1.1_] Last Updated: 27th of October 2018 <br>
 **Rules subject to change**
 
 ### In-game Rules
