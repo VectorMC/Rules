@@ -24,7 +24,7 @@
   
 **Contact a staff member if you are unsure if your modification is permitted.**
 
-### Cross-platform rules
+### Cross-platform Rules
 1. Do not spam, or flood the chat in a way that ruins other player's experiences.
 2. Cursing is allowed to a certain extent, excessive cursing may result in a punishment.
 3. You are not allowed to post links that lead to NSFW or inappropriate websites.
