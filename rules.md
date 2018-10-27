@@ -1,5 +1,5 @@
 # VectorMC's Ruleset
-[_v1.0_]
+[_v1.1_] Last Updated: 27th of October 2018
 **Rules subject to change**
 
 ### In-game Rules
@@ -27,34 +27,38 @@
 ### Cross-platform rules
 1. Do not spam, or flood the chat in a way that ruins other player's experiences.
 2. Cursing is allowed to a certain extent, excessive cursing may result in a punishment.
-3. You are not allowed to post links that lead to inappropriate websites.
-4. You are not allowed to advertise or post server addresses to other servers that are not affiliated with VectorMC.
+3. You are not allowed to post links that lead to NSFW or inappropriate websites.
+4. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with VectorMC.
 5. Be respectful and maintain a casual atmosphere. Hate speech and bigotry will not be tolerated.
 6. DDOS or DOS attacks are not permitted and will result in a **Permanent Ban**.
 7. Exploiting any kind of glitch or bug that gives you or other players an unfair advantage is not allowed.
 8. Do not give your team an unfair advantage.
 9. Do not impersonate any staff members.
-10. Ban evading will result in a network ban. All chances of appealing will be denied until any ban resets.
-11. Logging out during a screen share will result in a permanent ban.
-12. If a staff member tells you to do something, follow their command, disobeying staff will result in punishment.
-13. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will result in a punishment.
-14. Do not accuse other players of cheating in public chat, private message an online staff member or ping a staff member on Discord.
+10. Logging out during a screen share will result in a permanent ban.
+11. If a staff member tells you to do something, follow their command, disobeying staff will result in punishment.
+12. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will result in a punishment.
+13. Do not accuse other players of cheating in public chat, private message an online staff member or ping a staff member on Discord.
 
 ### Forum Rules
 1. Users are not allowed to create any spam topics.
-2. Users are not allowed to create topics that anger other people.
+2. Posts that are intentally made to insult, attack or harrass other user is strictly prohibited.
 3. Users must stay on topic in discussions, any comments not relating to the topic will be deleted.
 4. Do not bump old topics. Create a new topic that is similar to the old topic.
-5. Inappropriate images or link will be removed and may result in a punishment. 
+5. Inappropriate images or links will be removed and may result in a punishment. 
 6. Posts that discuss other servers are not allowed.
 7. Titles should be formatted properly and must be related to the topic.
 8. Do not create topics that mislead others into doing something.
-VectorMC's staff team has the right to archive, remove and lock any post or comment that does not follow any of the above rules.
+The VectorMC staff team has the right to archive, remove and lock any post or comment that does not follow any of the above rules.
+
+### Discord Rules
+1. Your Discord username must follow your in game name or be a nickname most of the community knows you by.
+2. All channels have specific names for a specific use, self explanatory to follow.
+3. Do not spam. This includes sending multiple messages in quick succession and mass-pinging.
+4. Stay on-topic within channels.
+5. Do not mic spam or play music outside of dedicated music channels.
 
 ### Other
 1. These rules are subject to change without notice of any kind.
 2. All users are responsible to keep up to date with any rule changes.
 3. VectorMC has the right to refuse service to anyone, and to punish any player on any platform with or without reason.
 4. All rule changes have a 1 week grace period.
-5. The user has the right to contact us to request a re-assessment if he/she thinks that they were punished or demoted unfairly.
-6. Users shall not attempt to reverse engineer 
