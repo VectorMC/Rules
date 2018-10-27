@@ -36,7 +36,7 @@
 9. Do not impersonate any staff members.
 10. Ban evading will result in a network ban. All chances of appealing will be denied until any ban resets.
 11. Logging out during a screen share will result in a permanent ban.
-12. You must follow all staff instruction during a screen-share.
+12. If a staff member tells you to do something, follow their command, disobeying staff will result in punishment.
 13. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will result in a punishment.
 14. Do not accuse other players of cheating in public chat, private message an online staff member or ping a staff member on Discord.
 
