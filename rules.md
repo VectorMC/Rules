@@ -29,7 +29,7 @@
 2. Cursing is allowed to a certain extent, excessive cursing may result in a punishment.
 3. You are not allowed to post links that lead to inappropriate websites.
 4. You are not allowed to advertise or post server addresses to other servers that are not affiliated with VectorMC.
-5. Do not insult other players.
+5. Be respectful and maintain a casual atmosphere. Hate speech and bigotry will not be tolerated.
 6. DDOS or DOS attacks are not permitted and will result in a **Permanent Ban**.
 7. Exploiting any kind of glitch or bug that gives you or other players an unfair advantage is not allowed.
 8. Do not give your team an unfair advantage.
@@ -55,6 +55,6 @@ VectorMC's staff team has the right to archive, remove and lock any post or comm
 1. These rules are subject to change without notice of any kind.
 2. All users are responsible to keep up to date with any rule changes.
 3. VectorMC has the right to refuse service to anyone, and to punish any player on any platform with or without reason.
-4. All rule changes have a 1 month grace period.
+4. All rule changes have a 1 week grace period.
 5. The user has the right to contact us to request a re-assessment if he/she thinks that they were punished or demoted unfairly.
 6. Users shall not attempt to reverse engineer 
