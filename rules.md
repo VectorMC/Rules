@@ -40,7 +40,7 @@
 
 ### Forum Rules
 1. Users are not allowed to create any spam topics.
-2. Posts that are intentally made to insult, attack or harrass other user is strictly prohibited.
+2. Posts that are intentionally made to insult, attack or harass other user is strictly prohibited.
 3. Users must stay on topic in discussions, any comments not relating to the topic will be deleted.
 4. Do not bump old topics. Create a new topic that is similar to the old topic.
 5. Inappropriate images or links will be removed and may result in a punishment. 
