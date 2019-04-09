@@ -1,5 +1,6 @@
-# VectorMC's Ruleset
-[_v1.1_] Last Updated: 27th of October 2018 <br>
+# Ruleset
+### VectorMC's Ruleset
+[_v1.1_] Last Updated: 8th of April 2019 <br>
 **Rules subject to change**
 
 ### In-game Rules
